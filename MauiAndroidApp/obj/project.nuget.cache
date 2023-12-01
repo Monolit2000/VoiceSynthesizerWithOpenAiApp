@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLMSffuCmQ5kMk2lGmLkr3rE6cql3sVJkHtmfoRKWfCMlrGc00JWBWB3HpU15A+7moHqRQPXCsMXMRCAABB8TA==",
+  "success": false,
+  "projectFilePath": "E:\\C#_WORK\\ChatGPT_APP\\MauiAndroidApp\\MauiAndroidApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net7.0-android, net7.0-ios, net7.0-maccatalyst."
+    }
+  ]
+}

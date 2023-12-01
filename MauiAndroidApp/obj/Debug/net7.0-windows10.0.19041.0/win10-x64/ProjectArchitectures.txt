@@ -1,0 +1,1 @@
+E:\C#_WORK\ChatGPT_APP\MauiAndroidApp\MauiAndroidApp.csproj;x64
